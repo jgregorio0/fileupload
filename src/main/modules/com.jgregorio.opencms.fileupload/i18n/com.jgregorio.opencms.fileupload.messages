@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<XmlVfsBundles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="opencms://system/modules/org.opencms.ade.config/schemas/xmlvfsbundle.xsd">
+  <Bundle language="en">
+     <Message>
+       <Key><![CDATA[fileupload.form.file.format]]></Key>
+       <Value><![CDATA[jpg|png]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[info.fileupload.form.file.format]]></Key>
+       <Value><![CDATA[Files allowed are JPG or PNG]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[error.fileupload.form.file.format]]></Key>
+       <Value><![CDATA[File must be JPG or PNG]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[fileupload.form.file.max.size]]></Key>
+       <Value><![CDATA[3MB]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[info.fileupload.form.file.max.size]]></Key>
+       <Value><![CDATA[Files size up to 3MB]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[error.fileupload.form.file.max.size]]></Key>
+       <Value><![CDATA[File must be up to 3MB]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[fileupload.form.btn.upload.text]]></Key>
+       <Value><![CDATA[Upload]]></Value>
+     </Message>
+
+
+     <Message>
+       <Key><![CDATA[fileupload.form.btn.select.title]]></Key>
+       <Value><![CDATA[Select file]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[fileupload.form.btn.select.text]]></Key>
+       <Value><![CDATA[Select]]></Value>
+     </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.btn.upload.title]]></Key>
+      <Value><![CDATA[Upload selected files]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.file.icon]]></Key>
+      <Value><![CDATA[upload]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.file.placeholder]]></Key>
+      <Value><![CDATA[...]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.emptycontainer.title]]></Key>
+      <Value><![CDATA[Empty container]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.emptycontainer.text]]></Key>
+      <Value><![CDATA[Add function using upload form from elements folder]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.file.label]]></Key>
+      <Value><![CDATA[Upload your files]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.drag.and.drop]]></Key>
+      <Value><![CDATA[Drag &amp; drop files here …]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.file.caption.placeholder]]></Key>
+      <Value><![CDATA[Select file]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.btn.cancel.text]]></Key>
+      <Value><![CDATA[Cancel]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.btn.cancel.title]]></Key>
+      <Value><![CDATA[Abort ongoing upload]]></Value>
+    </Message>
+  </Bundle>
+  <Bundle language="es">
+     <Message>
+       <Key><![CDATA[fileupload.form.file.format]]></Key>
+       <Value><![CDATA[jpg|png]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[info.fileupload.form.file.format]]></Key>
+       <Value><![CDATA[Los ficheros deben ser JPG ó PNG]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[error.fileupload.form.file.format]]></Key>
+       <Value><![CDATA[El formato del fichero es incorrecto]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[fileupload.form.file.max.size]]></Key>
+       <Value><![CDATA[3MB]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[info.fileupload.form.file.max.size]]></Key>
+       <Value><![CDATA[El tamaño del fichero debe ser menor a 3 MB]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[error.fileupload.form.file.max.size]]></Key>
+       <Value><![CDATA[El tamaño del fichero supera el máximo permitido (3 MB)]]></Value>
+     </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.text]]></Key>
+      <Value><![CDATA[Sube tus ficheros]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.drag.and.drop]]></Key>
+      <Value><![CDATA[Arrastra los ficheros aquí…]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.file.caption.placeholder]]></Key>
+      <Value><![CDATA[Seleccione un fichero]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.btn.cancel.text]]></Key>
+      <Value><![CDATA[Cancelar]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.btn.cancel.title]]></Key>
+      <Value><![CDATA[Cancelar subida]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.emptycontainer.title]]></Key>
+      <Value><![CDATA[Contenedor vacío]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.emptycontainer.text]]></Key>
+      <Value><![CDATA[Añada function enlazando el formulario de subida contenido en la carpeta elements]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.file.label]]></Key>
+      <Value><![CDATA[Suba sus ficheros]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.file.placeholder]]></Key>
+      <Value><![CDATA[...]]></Value>
+    </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.file.icon]]></Key>
+      <Value><![CDATA[upload]]></Value>
+    </Message>
+    <Message>
+       <Key><![CDATA[fileupload.form.btn.upload.text]]></Key>
+       <Value><![CDATA[Subir]]></Value>
+     </Message>
+    <Message>
+      <Key><![CDATA[fileupload.form.btn.upload.title]]></Key>
+      <Value><![CDATA[Comience la subida de ficheros]]></Value>
+    </Message>
+
+     <Message>
+       <Key><![CDATA[fileupload.form.btn.select.title]]></Key>
+       <Value><![CDATA[Selecciona fichero a subir]]></Value>
+     </Message>
+     <Message>
+       <Key><![CDATA[fileupload.form.btn.select.text]]></Key>
+       <Value><![CDATA[Seleccionar]]></Value>
+     </Message>
+  </Bundle>
+
+</XmlVfsBundles>
